@@ -8,11 +8,11 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/home/axel/Programming/KEX_pico/include",
-                "/home/axel/Programming/KEX_pico/src",
+                "/home/axel/Programming/kex_pico/include",
+                "/home/axel/Programming/kex_pico/src",
                 "/home/axel/.platformio/packages/framework-wizio-pico/library/wiring/include",
                 "/home/axel/.platformio/packages/framework-wizio-pico/library/wiring/src",
-                "/home/axel/Programming/KEX_pico/lib",
+                "/home/axel/Programming/kex_pico/lib",
                 "/home/axel/.platformio/packages/framework-wizio-pico/wizio/pico",
                 "/home/axel/.platformio/packages/framework-wizio-pico/wizio/newlib",
                 "/home/axel/.platformio/packages/framework-wizio-pico/SDK/include",
@@ -33,11 +33,11 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/home/axel/Programming/KEX_pico/include",
-                    "/home/axel/Programming/KEX_pico/src",
+                    "/home/axel/Programming/kex_pico/include",
+                    "/home/axel/Programming/kex_pico/src",
                     "/home/axel/.platformio/packages/framework-wizio-pico/library/wiring/include",
                     "/home/axel/.platformio/packages/framework-wizio-pico/library/wiring/src",
-                    "/home/axel/Programming/KEX_pico/lib",
+                    "/home/axel/Programming/kex_pico/lib",
                     "/home/axel/.platformio/packages/framework-wizio-pico/wizio/pico",
                     "/home/axel/.platformio/packages/framework-wizio-pico/wizio/newlib",
                     "/home/axel/.platformio/packages/framework-wizio-pico/SDK/include",
