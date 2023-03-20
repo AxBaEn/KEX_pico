@@ -1,0 +1,87 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/home/axel/Programming/KEX_pico/include",
+                "/home/axel/Programming/KEX_pico/src",
+                "/home/axel/.platformio/packages/framework-wizio-pico/library/wiring/include",
+                "/home/axel/.platformio/packages/framework-wizio-pico/library/wiring/src",
+                "/home/axel/Programming/KEX_pico/lib",
+                "/home/axel/.platformio/packages/framework-wizio-pico/wizio/pico",
+                "/home/axel/.platformio/packages/framework-wizio-pico/wizio/newlib",
+                "/home/axel/.platformio/packages/framework-wizio-pico/SDK/include",
+                "/home/axel/.platformio/packages/framework-wizio-pico/SDK/cmsis/include",
+                "/home/axel/.platformio/packages/framework-wizio-pico/SDK/boards",
+                "/home/axel/.platformio/packages/framework-wizio-pico/SDK/lib/tinyusb/src",
+                "/home/axel/.platformio/packages/framework-wizio-pico/library/VFS",
+                "/home/axel/.platformio/packages/framework-wizio-pico/library/cmsis-dap",
+                "/home/axel/.platformio/packages/framework-wizio-pico/library/fatfs",
+                "/home/axel/.platformio/packages/framework-wizio-pico/library/freertos/include",
+                "/home/axel/.platformio/packages/framework-wizio-pico/library/freertos/src",
+                "/home/axel/.platformio/packages/framework-wizio-pico/library/hal_tft",
+                "/home/axel/.platformio/packages/framework-wizio-pico/library/lfs",
+                "/home/axel/.platformio/packages/framework-wizio-pico/library/posix/include",
+                "/home/axel/.platformio/packages/framework-wizio-pico/library/posix/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/axel/Programming/KEX_pico/include",
+                    "/home/axel/Programming/KEX_pico/src",
+                    "/home/axel/.platformio/packages/framework-wizio-pico/library/wiring/include",
+                    "/home/axel/.platformio/packages/framework-wizio-pico/library/wiring/src",
+                    "/home/axel/Programming/KEX_pico/lib",
+                    "/home/axel/.platformio/packages/framework-wizio-pico/wizio/pico",
+                    "/home/axel/.platformio/packages/framework-wizio-pico/wizio/newlib",
+                    "/home/axel/.platformio/packages/framework-wizio-pico/SDK/include",
+                    "/home/axel/.platformio/packages/framework-wizio-pico/SDK/cmsis/include",
+                    "/home/axel/.platformio/packages/framework-wizio-pico/SDK/boards",
+                    "/home/axel/.platformio/packages/framework-wizio-pico/SDK/lib/tinyusb/src",
+                    "/home/axel/.platformio/packages/framework-wizio-pico/library/VFS",
+                    "/home/axel/.platformio/packages/framework-wizio-pico/library/cmsis-dap",
+                    "/home/axel/.platformio/packages/framework-wizio-pico/library/fatfs",
+                    "/home/axel/.platformio/packages/framework-wizio-pico/library/freertos/include",
+                    "/home/axel/.platformio/packages/framework-wizio-pico/library/freertos/src",
+                    "/home/axel/.platformio/packages/framework-wizio-pico/library/hal_tft",
+                    "/home/axel/.platformio/packages/framework-wizio-pico/library/lfs",
+                    "/home/axel/.platformio/packages/framework-wizio-pico/library/posix/include",
+                    "/home/axel/.platformio/packages/framework-wizio-pico/library/posix/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60106",
+                "LIB_PICO_STDIO_USB",
+                "PICO_USB",
+                "NDEBUG",
+                "PICO_ON_DEVICE=1",
+                "PICO_HEAP_SIZE=2048",
+                "PICO_STACK_SIZE=2048",
+                "PICO_WIFI",
+                "BAREMETAL",
+                "PICO_STDIO_USB",
+                "CFG_TUSB_MCU=OPT_MCU_RP2040",
+                "CFG_TUSB_OS=OPT_OS_PICO",
+                ""
+            ],
+            "compilerPath": "/home/axel/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/arm-none-eabi-gcc",
+            "compilerArgs": [
+                "-march=armv6-m",
+                "-mcpu=cortex-m0plus",
+                "-mthumb",
+                "-march=armv6-m",
+                "-mcpu=cortex-m0plus",
+                "-mthumb",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
